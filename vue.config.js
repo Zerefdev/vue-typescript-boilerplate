@@ -1,3 +1,5 @@
 module.exports = {
-    productionSourceMap: false
+    productionSourceMap: false,
+    publicPath: './',
+    outputDir: 'view'
 };

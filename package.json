@@ -11,6 +11,7 @@
     "vue": "^3.0.0"
   },
   "devDependencies": {
+    "@altv/types-webview": "^1.0.2",
     "@typescript-eslint/eslint-plugin": "^4.4.0",
     "@typescript-eslint/parser": "^4.4.0",
     "@vue/cli-plugin-babel": "~4.5.7",
